@@ -1,0 +1,26 @@
+[
+  {
+    "id": "56e39121-6404-4fca-8a8d-58f48fac809b",
+    "url": "https://www.kijiji.ca/b-cars-trucks/regina/fiat-new__used/c174l1700196a54a49",
+    "type": "car",
+    "source": "kijiji"
+  },
+  {
+    "id": "f4f6dcb7-7e61-43bf-91ff-f0a4755ba890",
+    "url": "https://www.kijiji.ca/b-pets/regina/dachshund/k0c112l1700196?rb=true",
+    "type": "other",
+    "source": "kijiji"
+  },
+  {
+    "id": "f4dfd",
+    "url": "https://www.kijiji.ca/b-ontario/car/k0l9004?rb=true&dc=true",
+    "type": "other",
+    "source": "kijiji"
+  },
+  {
+    "id": "jjjj",
+    "url": "https://www.varagesale.com/m/cornwall-uk/find?q=car",
+    "type": "other",
+    "source": "vergasale"
+  }
+  ]
